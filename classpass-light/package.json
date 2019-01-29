@@ -1,0 +1,21 @@
+{
+    "name": "classpass-light",
+    "displayName": "ClassPass Light",
+    "description": "VS Code theme using colors from the ClassPass design system",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ClassPass Light",
+                "uiTheme": "vs",
+                "path": "./themes/ClassPass Light-color-theme.json"
+            }
+        ]
+    }
+}
